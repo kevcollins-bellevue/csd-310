@@ -1,4 +1,4 @@
-# TITLE: mongodb_test.py
+# TITLE: pytech_insert.py
 # AUTHOR: Kevin Collins
 # DATE: 2023-07-02
 # DESCRIPTION: Insert three student documents to MongoDB Atlas database 

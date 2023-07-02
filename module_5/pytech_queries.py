@@ -1,4 +1,4 @@
-# TITLE: mongodb_test.py
+# TITLE: pytech_queries.py
 # AUTHOR: Kevin Collins
 # DATE: 2023-07-02
 # DESCRIPTION: Query the students collection 
