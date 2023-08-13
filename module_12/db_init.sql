@@ -1,5 +1,5 @@
 /*
-	TITLE: whatabook_init.sql
+	TITLE: db_init.sql
 	AUTHOR: Kevin Collins
 	DATE: 2023-08-12
 	DESCRIPTION: WhatABook initialization script.
